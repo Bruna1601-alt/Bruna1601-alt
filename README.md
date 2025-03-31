@@ -10,7 +10,7 @@ Estudante de Sistemas de Informação em busca de oportunidades na área de Tecn
 
 --- 
 
-### Estatisticas
+### Estatisticas 📈
 
 ![Bruna1601-alt GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruna1601-alt&show_icons=true&theme=cobalt)
 
@@ -28,7 +28,17 @@ Estudante de Sistemas de Informação em busca de oportunidades na área de Tecn
 
 ---
 
-### Interesse de Aprender 📚
+### Interesse em Aprender 📚
 
 ![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### Ferramentas ⚙️
+
+![Blog](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![Blog](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Blog](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Blog](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
